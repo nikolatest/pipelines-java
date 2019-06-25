@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/nikolatestazure/Test%20Build/_apis/build/status/nikolatest.pipelines-java?branchName=master)](https://dev.azure.com/nikolatestazure/Test%20Build/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
